@@ -46,7 +46,7 @@ Make sure you have Node.js and npm installed.
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/mehrabhossainmoin/Asset_sqa_2.git
+   git clone https://github.com
    ```
 2. Install NPM packages:
    ```bash
