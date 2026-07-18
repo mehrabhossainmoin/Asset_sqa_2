@@ -6,7 +6,7 @@ Welcome to the Perplexity AI Platform project repository. This project focuses o
 
 All the detailed requirements, system architecture, and specifications for this project are fully documented on Notion.
 
-👉 **[View Full SRS Document on Notion](https://notion.site)**
+👉 **[View Full SRS Document on Notion](https://substantial-poppyseed-916.notion.site/SRS-Perplexity-AI-Platform-253298b9f8034046ad26f0e3a958da25?source=copy_link)**
 
 ---
 
